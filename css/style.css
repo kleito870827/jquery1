@@ -1,8 +1,10 @@
 .stylesun{
-  background-color: blue;
+  background-image: url(http://www.shauntmax30.com/data/out/38/1268303-top-ranked-sky-wallpapers.jpg);
+background-size: cover;
 }
 .stylemoon{
-  background-color: black;
+  background-image: url(https://darkskydiary.files.wordpress.com/2011/01/sarkimage1.jpg);
+  background-size: cover;
 }
 #orb{
   height: 300px;
